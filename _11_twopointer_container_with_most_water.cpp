@@ -34,6 +34,7 @@ int main()
 {
     Solution sol;
     vector<int> input1 = {1, 8, 6, 2, 5, 4, 8, 3, 7};
+
     auto res = sol.maxArea(input1);
     cout << res << endl;
 
