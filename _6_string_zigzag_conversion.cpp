@@ -33,7 +33,9 @@ public:
 };
 
 /*
-
+Approach 1: sorted row
+Time Complexity: O(n)
+Space Complexity: O(n)
 */
 
 int main()
