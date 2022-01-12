@@ -31,6 +31,12 @@ public:
     }
 };
 
+/*
+Approach 1:
+Time Complexity: O(man(n, m))
+Space Complexity: O(max(n, m))
+*/
+
 int main()
 {
     Solution sol;
