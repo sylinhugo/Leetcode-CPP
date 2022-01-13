@@ -56,6 +56,10 @@ Space Complexity: O(3^n)
 
 int main()
 {
+    Solution sol;
+    auto input1 = 3;
+
+    vector<TreeNode *> res = sol.generateTrees(input1);
 
     return 0;
 }
